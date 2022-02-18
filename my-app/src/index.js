@@ -3,7 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 // import App from './App';
 // import App from '../src/unhook/App'
-import App from './superheros/index'
+// import App from './superheros/index'
+import App from './day-today/App'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
